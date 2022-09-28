@@ -21,6 +21,6 @@
 
 <h2>SNS</h2>
 <p>
-  <a href="http://www.instagram/na_young_9012.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="http://[www.instagram/na_young_9012.com](https://www.instagram.com/na_young_9012/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/never blog-03C75A?style=flat&logo=never&logoColor=white"/>
 </p>
