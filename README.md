@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Nayoung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5dded5&height=300&section=header&text=kimNa_0&fontSize=90)
 <h1>studying</h1>
 <h2>platform&language</h2>
 <p>
