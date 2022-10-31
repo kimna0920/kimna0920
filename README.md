@@ -25,3 +25,5 @@
   <a href="http://www.instagram.com/na_young_9012/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/never blog-03C75A?style=flat&logo=never&logoColor=white"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimna0920 &layout=compact &theme=dark)
