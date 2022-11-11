@@ -27,8 +27,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimna0920&layout=compact&theme=cobalt)
-<style>
-  *{
-    text-al
-  }
-</style>
