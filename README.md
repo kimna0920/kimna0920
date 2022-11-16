@@ -27,3 +27,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimna0920&layout=compact&theme=cobalt)
+<img src="https://i.pinimg.com/564x/8c/3f/04/8c3f04cc12024362136acf02153df346.jpg" width="300" height="170"/>
