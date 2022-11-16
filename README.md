@@ -26,5 +26,5 @@
   <img src="https://img.shields.io/badge/never blog-03C75A?style=flat&logo=never&logoColor=white"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimna0920&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimna0920&layout=compact&theme=cobalt)
-<img src="https://i.pinimg.com/564x/c1/d8/47/c1d847d67befba141559807572adb660.jpg" width="20%" height="20%"/>
